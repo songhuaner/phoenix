@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.ludius</groupId>
+  <artifactId>phoenix</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>phoenix</name>
+
+  <modules>
+    <module>phoenix-common</module>
+    <module>phoenix-rocketMQ</module>
+    <module>phoenix-kafka</module>
+    <module>phoenix-esb</module>
+    <module>phoenix-stream</module>
+    <module>phoenix-kong</module>
+    <module>phoenix-es</module>
+    <module>phoenix-hbase</module>
+    <module>phoenix-redis</module>
+    <module>phoenix-netty</module>
+    <module>phoenix-zookeeper</module>
+    <module>phoenix-dependency</module>
+    <module>phoenix-nacos</module>
+    <module>phoenix-mybatis</module>
+    <module>phoenix-parent</module>
+    <module>phoenix-logger</module>
+  </modules>
+
+
+
+
+
+
+
+
+
+
+</project>

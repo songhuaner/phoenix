@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="phoenix-stream" />
+        <module name="phoenix-common" />
+        <module name="phoenix-kong" />
+        <module name="phoenix-kafka" />
+        <module name="phoenix-nacos" />
+        <module name="phoenix-esb" />
+        <module name="phoenix-web" />
+        <module name="phoenix-zookeeper" />
+        <module name="phoenix-redis" />
+        <module name="phoenix-logger" />
+        <module name="phoenix-rocketMQ" />
+        <module name="phoenix-netty" />
+        <module name="phoenix-mybatis" />
+        <module name="phoenix-es" />
+        <module name="phoenox-maven-plugin" />
+        <module name="phoenix-hbase" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="phoenix-log-spring-boot-starter" target="1.7" />
+      <module name="phoenix-maven-plugin" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="phoenix-web" options="-parameters" />
+    </option>
+  </component>
+</project>

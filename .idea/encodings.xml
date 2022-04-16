@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/phoenix-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-es/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-esb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-hbase/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-kong/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-logger/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-logger/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-nacos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-nacos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-netty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-rocketMQ/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-stream/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/phoenix-zookeeper/src/main/java" charset="UTF-8" />
+  </component>
+</project>
